@@ -109,7 +109,7 @@ export function Home() {
               VILLAGE CABLE NETWORK
             </Badge>
             <h1 className="text-4xl sm:text-5xl font-extrabold text-white leading-tight mb-4">
-              Your Village Connected.
+              Saikiran Cable TV Network
               <br />
               <span className="text-blue-300">
                 TV, Internet &amp; Community.
@@ -187,7 +187,7 @@ export function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold text-navy mb-3">
-              Why Choose Village Cable?
+              Why Choose Saikiran Cable TV?
             </h2>
             <p className="text-gray-500 max-w-xl mx-auto">
               We're not just a provider — we're your neighbors. Here's what
@@ -229,7 +229,7 @@ export function Home() {
               Latest Community Updates
             </h2>
             <p className="text-gray-500">
-              News and announcements from Village Cable Network
+              News and announcements from Saikiran Cable TV Network
             </p>
           </div>
 

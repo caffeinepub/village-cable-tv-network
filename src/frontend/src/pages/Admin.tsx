@@ -933,7 +933,7 @@ export function Admin() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <h1 className="text-3xl font-extrabold mb-1">Admin Panel</h1>
           <p className="text-blue-200">
-            Manage Village Cable Network content and subscribers
+            Manage Saikiran Cable TV Network content and subscribers
           </p>
         </div>
       </div>

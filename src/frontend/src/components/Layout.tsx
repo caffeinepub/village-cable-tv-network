@@ -26,7 +26,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
       {/* Utility bar */}
       <div className="bg-navy text-white py-1.5 px-4 flex items-center justify-between text-xs">
         <span className="hidden sm:block">
-          Welcome to Village Cable Network &mdash; Your Community Connection
+          Welcome to Saikiran Cable TV Network &mdash; Your Community Connection
         </span>
         <div className="flex items-center gap-3 ml-auto">
           {isLoggedIn ? (
@@ -77,10 +77,10 @@ export function Layout({ children }: { children: React.ReactNode }) {
               </div>
               <div>
                 <div className="font-bold text-navy text-base leading-tight">
-                  Village Cable
+                  Saikiran Cable TV
                 </div>
                 <div className="text-[10px] text-gray-500 tracking-widest uppercase">
-                  Cable Network
+                  Network
                 </div>
               </div>
             </Link>
@@ -162,10 +162,10 @@ export function Layout({ children }: { children: React.ReactNode }) {
                 </div>
                 <div>
                   <div className="font-bold text-white text-base">
-                    Village Cable
+                    Saikiran Cable TV
                   </div>
                   <div className="text-[10px] text-blue-300 tracking-widest uppercase">
-                    Cable Network
+                    Network
                   </div>
                 </div>
               </div>
@@ -232,7 +232,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
 
           <div className="border-t border-white/10 mt-10 pt-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-blue-300">
             <span>
-              © {new Date().getFullYear()} Village Cable Network. All rights
+              © {new Date().getFullYear()} Saikiran Cable TV Network. All rights
               reserved.
             </span>
             <span>
