@@ -82,6 +82,9 @@ export function Layout({ children }: { children: React.ReactNode }) {
                 <div className="text-[10px] text-gray-500 tracking-widest uppercase">
                   Network
                 </div>
+                <div className="text-[9px] text-accent-blue font-medium tracking-wide">
+                  Since 1994
+                </div>
               </div>
             </Link>
 
@@ -167,11 +170,14 @@ export function Layout({ children }: { children: React.ReactNode }) {
                   <div className="text-[10px] text-blue-300 tracking-widest uppercase">
                     Network
                   </div>
+                  <div className="text-[9px] text-blue-400 font-medium tracking-wide">
+                    Since 1994
+                  </div>
                 </div>
               </div>
               <p className="text-blue-200 text-sm leading-relaxed">
                 Connecting our village with reliable cable TV and high-speed
-                broadband since 2005. Locally owned, community focused.
+                broadband since 1994. Locally owned, community focused.
               </p>
             </div>
 
@@ -221,11 +227,11 @@ export function Layout({ children }: { children: React.ReactNode }) {
               <h4 className="font-semibold text-white mb-4 uppercase text-xs tracking-wider">
                 Contact Us
               </h4>
-              <ul className="space-y-2 text-sm text-blue-200">
-                <li>📞 +1 (555) 234-5678</li>
-                <li>✉️ support@villagecable.net</li>
-                <li>📍 12 Main Street, Village Center</li>
-                <li>🕐 Mon–Sat: 8am–6pm</li>
+              <ul className="space-y-3 text-sm text-blue-200">
+                <li>📞 9966795569</li>
+                <li>✉️ Saikirangoudbollapally@gmail.com</li>
+                <li>📍 H.no 6-18/B, Mendora, Nizamabad</li>
+                <li>📮 Pincode: 503219, Telangana</li>
               </ul>
             </div>
           </div>
